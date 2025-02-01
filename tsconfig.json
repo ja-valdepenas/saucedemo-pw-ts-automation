@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "ES2021",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "./dist",
+      "baseUrl": "./",
+      "paths": {
+        "@pages/*": ["pages/*"],
+        "@utils/*": ["utils/*"],
+        "@data/*": ["data/*"]
+      },
+      "esModuleInterop": true,
+      "strict": true,
+      "skipLibCheck": true,
+      "resolveJsonModule": true
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules"]
+  }
