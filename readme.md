@@ -35,8 +35,8 @@ project/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd saucedemo-automation
+git clone https://github.com/ja-valdepenas/saucedemo-pw-ts-automation.git
+cd saucedemo-pw-ts-automation
 ```
 
 2. Install dependencies:
