@@ -152,6 +152,10 @@ npm run allure:report
 - `TestHelper`: Common test utilities
 - `ReportHelper`: Reporting utilities
 
+## 📽️ YouTube Video (Demo)
+
+[SauceDemo Test Automation Framework with Test Cases, Test Plan and Github Repository](https://youtu.be/UG1QiB_FfRk)
+
 ## 👥 Contributing
 
 1. Fork the repository
